@@ -23,7 +23,7 @@
         "@cloudscape-design/design-tokens": "^3.0.43",
         "@cloudscape-design/global-styles": "^1.0.32",
         "ace-builds": "^1.35.4",
-        "aws-amplify": "^6.5.0",
+        "aws-amplify": "^6.5.1",
         "crunker": "^2.4.0",
         "dayjs": "^1.11.12",
         "framer-motion": "^11.3.24",
